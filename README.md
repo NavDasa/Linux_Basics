@@ -393,7 +393,7 @@ CRON JOBS:
     # You can schedule a Job an Example Job is shown as below, and will be shown like below after opening
     
      min          hour       dom(days)       month      dow(week)           commd
-   (0-59)        (0-23)       (1-31)         (1-12)       (0-6)             What we want to install
+    (0-59)        (0-23)       (1-31)         (1-12)       (0-6)             What we want to install
    
    
    The example is shown below :
